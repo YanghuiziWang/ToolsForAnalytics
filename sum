@@ -1,6 +1,6 @@
 #!/bin/bash
 # Auther: Yanghuizi Wang
-# This is my comment
+# This is a good script!
 sum=0
 # this is my comment
 for arg in $@
