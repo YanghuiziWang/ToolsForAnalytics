@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Python Python Python
 And python
-
+lalalallala
+lllllll
+aaaaaa
+>>>>>>> feature1
